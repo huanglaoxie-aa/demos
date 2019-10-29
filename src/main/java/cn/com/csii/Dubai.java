@@ -6,5 +6,11 @@ public class Dubai {
         System.out.println("是的撒大苏打");
         System.out.println("是的撒大苏打");
         System.out.println("是的撒大苏打");
+        System.out.println("是的撒大苏打");
+        System.out.println("是的撒大苏打");
+        System.out.println("是的撒大苏打");
+        System.out.println("是的撒大苏打");
+        System.out.println("是的撒大苏打");
+        System.out.println("是的撒大苏打");
     }
 }
